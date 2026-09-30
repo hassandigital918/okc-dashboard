@@ -5,7 +5,7 @@ Everything in this repo is public. Keep it client-safe: no team names, internal 
 
 Inputs:  tasks.json (client wording), status.json ({task_id: {status: done|progress|waiting, link, at}}),
          config.json (keywords, targets, rankings, needs, update text, chat endpoint), okc-logo.png
-Output:  index.html (served by Netlify at okc.intelligentsolutionstech.com)
+Output:  index.html (served by Netlify at okc-seo-dashboard.netlify.app)
 Run:     python3 build.py
 """
 import base64, datetime as dt, json, re, sys
