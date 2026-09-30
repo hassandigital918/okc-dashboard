@@ -100,32 +100,38 @@
     {
       "item": "Google Business Profile",
       "how": "Add our team email as a Manager",
-      "done": false
+      "done": true,
+      "note": "Access received, thank you"
     },
     {
       "item": "Website",
       "how": "Create a WordPress user for us (Administrator or Editor)",
-      "done": false
+      "done": true,
+      "note": "Access received, thank you"
     },
     {
       "item": "Google Analytics 4",
       "how": "Add our team email with the Editor role",
-      "done": false
+      "done": true,
+      "note": "Access received, thank you"
     },
     {
       "item": "Google Search Console",
       "how": "Add our team email as a Full user",
-      "done": false
+      "done": true,
+      "note": "Access received, thank you"
     },
     {
       "item": "Local Services Ads",
       "how": "Add our team email as a user on your LSA account",
-      "done": false
+      "done": true,
+      "note": "Access received, thank you"
     },
     {
       "item": "Facebook and Instagram",
       "how": "Add us as a partner in Meta Business Suite",
-      "done": false
+      "done": true,
+      "note": "Access received, thank you"
     },
     {
       "item": "Job photos",
