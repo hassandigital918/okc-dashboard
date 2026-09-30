@@ -1,0 +1,142 @@
+{
+  "client": "Oklahoma Climate Solutions",
+  "site": "okclimates.com",
+  "program": {
+    "name": "Local SEO Growth Package",
+    "start": "2026-10-01",
+    "end": "2026-12-31"
+  },
+  "agency": {
+    "name": "Intelligent Solutions Tech",
+    "site": "www.intelligentsolutionstech.com",
+    "email": "hello@intelligentsolutionstech.com",
+    "contact": "Hassan Tariq Malik, SEO Manager"
+  },
+  "chat_url": "https://script.google.com/macros/s/AKfycbye9V2JrgEiLub5lpfFbegVEiAdnOm3ZVMYzrd9XKY5HDl292AwX3bJufgwPj5BikY/exec",
+  "chat_token": "okc-E5-OzjRoYqy2v21YhpPjZhySqoyVJCQv",
+  "client_update": null,
+  "targets": {
+    "gbp": 4,
+    "listings": "15-20",
+    "backlinks": 3,
+    "social": 12
+  },
+  "keywords": [
+    {
+      "month": "2026-10",
+      "kw": "furnace repair oklahoma city",
+      "vol": 320,
+      "near": 140,
+      "page": "/furnace-services-oklahoma-city-ok/",
+      "season": "heat"
+    },
+    {
+      "month": "2026-10",
+      "kw": "heater repair oklahoma city",
+      "vol": 110,
+      "near": null,
+      "page": "/heating-services-oklahoma-city-ok/",
+      "season": "heat"
+    },
+    {
+      "month": "2026-10",
+      "kw": "hvac repair oklahoma city",
+      "vol": 170,
+      "near": 170,
+      "page": "Home page",
+      "season": "heat"
+    },
+    {
+      "month": "2026-11",
+      "kw": "heating and air oklahoma city",
+      "vol": 110,
+      "near": 170,
+      "page": "Home page",
+      "season": "heat"
+    },
+    {
+      "month": "2026-11",
+      "kw": "hvac contractors oklahoma city",
+      "vol": 210,
+      "near": null,
+      "page": "/hvac-contractors-oklahoma-city/ (new)",
+      "season": "heat"
+    },
+    {
+      "month": "2026-11",
+      "kw": "furnace replacement oklahoma city",
+      "vol": 50,
+      "near": null,
+      "page": "/furnace-services-oklahoma-city-ok/",
+      "season": "heat"
+    },
+    {
+      "month": "2026-12",
+      "kw": "ac repair oklahoma city",
+      "vol": 1000,
+      "near": 390,
+      "page": "/ac-services-oklahoma-city-ok/",
+      "season": "cool"
+    },
+    {
+      "month": "2026-12",
+      "kw": "water heater repair oklahoma city",
+      "vol": 210,
+      "near": null,
+      "page": "/water-heater-repair-oklahoma-city/ (new)",
+      "season": "heat"
+    },
+    {
+      "month": "2026-12",
+      "kw": "ac maintenance oklahoma city",
+      "vol": 210,
+      "near": null,
+      "page": "/hvac-maintenance-plans-oklahoma-city/",
+      "season": "cool"
+    }
+  ],
+  "rankings": {},
+  "needs": [
+    {
+      "item": "Google Business Profile",
+      "how": "Add our team email as a Manager",
+      "done": false
+    },
+    {
+      "item": "Website",
+      "how": "Create a WordPress user for us (Administrator or Editor)",
+      "done": false
+    },
+    {
+      "item": "Google Analytics 4",
+      "how": "Add our team email with the Editor role",
+      "done": false
+    },
+    {
+      "item": "Google Search Console",
+      "how": "Add our team email as a Full user",
+      "done": false
+    },
+    {
+      "item": "Local Services Ads",
+      "how": "Add our team email as a user on your LSA account",
+      "done": false
+    },
+    {
+      "item": "Facebook and Instagram",
+      "how": "Add us as a partner in Meta Business Suite",
+      "done": false
+    },
+    {
+      "item": "Job photos",
+      "how": "Recent install and repair photos",
+      "done": true,
+      "note": "Received, thank you"
+    },
+    {
+      "item": "Business hours and specials",
+      "how": "Confirm your opening time and which specials to promote this fall",
+      "done": false
+    }
+  ]
+}

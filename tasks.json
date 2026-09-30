@@ -1,0 +1,1941 @@
+[
+ {
+  "id": "2026-10-01-01",
+  "date": "2026-10-01",
+  "area": "Tracking",
+  "cat": "Tracking",
+  "label": "Baseline map-pack ranking scan, 14 keywords across the metro"
+ },
+ {
+  "id": "2026-10-01-02",
+  "date": "2026-10-01",
+  "area": "Google Business Profile",
+  "cat": "GBP",
+  "label": "Google Business Profile review: categories, services, hours, photos"
+ },
+ {
+  "id": "2026-10-01-04",
+  "date": "2026-10-01",
+  "area": "Google Business Profile",
+  "cat": "GBP",
+  "label": "Google post: Fall furnace tune-up special ($45)"
+ },
+ {
+  "id": "2026-10-01-05",
+  "date": "2026-10-01",
+  "area": "Backlinks",
+  "cat": "Backlinks",
+  "label": "Backlink article written"
+ },
+ {
+  "id": "2026-10-01-06",
+  "date": "2026-10-01",
+  "area": "Business listings",
+  "cat": "Citations",
+  "label": "New business listing"
+ },
+ {
+  "id": "2026-10-02-01",
+  "date": "2026-10-02",
+  "area": "Website",
+  "cat": "On-Page",
+  "label": "Website health and indexing audit"
+ },
+ {
+  "id": "2026-10-02-02",
+  "date": "2026-10-02",
+  "area": "Content",
+  "cat": "Content",
+  "label": "Q4 content calendar: blog, Google post and social topics"
+ },
+ {
+  "id": "2026-10-02-03",
+  "date": "2026-10-02",
+  "area": "Reviews",
+  "cat": "Reviews",
+  "label": "Google reviews checked and answered"
+ },
+ {
+  "id": "2026-10-02-04",
+  "date": "2026-10-02",
+  "area": "Social media",
+  "cat": "Social",
+  "label": "Facebook and Instagram post: Recent job photo"
+ },
+ {
+  "id": "2026-10-02-05",
+  "date": "2026-10-02",
+  "area": "Business listings",
+  "cat": "Local SEO",
+  "label": "Quality check on new business listings"
+ },
+ {
+  "id": "2026-10-02-06",
+  "date": "2026-10-02",
+  "area": "Google Maps",
+  "cat": "Map Pins",
+  "label": "Google Maps pins: Moore service keywords"
+ },
+ {
+  "id": "2026-10-05-01",
+  "date": "2026-10-05",
+  "area": "Tracking",
+  "cat": "Tracking",
+  "label": "Google Analytics: set up key events for phone clicks, form submits, booking clicks"
+ },
+ {
+  "id": "2026-10-05-02",
+  "date": "2026-10-05",
+  "area": "Reviews",
+  "cat": "Reviews",
+  "label": "Google reviews checked and answered"
+ },
+ {
+  "id": "2026-10-05-03",
+  "date": "2026-10-05",
+  "area": "Google Business Profile",
+  "cat": "GBP",
+  "label": "Google post: Furnace repair in Oklahoma City"
+ },
+ {
+  "id": "2026-10-05-04",
+  "date": "2026-10-05",
+  "area": "Social media",
+  "cat": "Social",
+  "label": "Facebook and Instagram post: Seasonal tip"
+ },
+ {
+  "id": "2026-10-05-05",
+  "date": "2026-10-05",
+  "area": "Business listings",
+  "cat": "Local SEO",
+  "label": "Name, address and phone consistency check"
+ },
+ {
+  "id": "2026-10-05-06",
+  "date": "2026-10-05",
+  "area": "Business listings",
+  "cat": "Citations",
+  "label": "New business listing"
+ },
+ {
+  "id": "2026-10-06-01",
+  "date": "2026-10-06",
+  "area": "Tracking",
+  "cat": "Tracking",
+  "label": "Google Analytics: verify key events are firing"
+ },
+ {
+  "id": "2026-10-06-02",
+  "date": "2026-10-06",
+  "area": "Content",
+  "cat": "Content",
+  "label": "Blog draft: Emergency heating repair checklist for winter nights"
+ },
+ {
+  "id": "2026-10-06-03",
+  "date": "2026-10-06",
+  "area": "Local Services Ads",
+  "cat": "LSA",
+  "label": "Local Services Ads lead review"
+ },
+ {
+  "id": "2026-10-06-04",
+  "date": "2026-10-06",
+  "area": "Backlinks",
+  "cat": "Backlinks",
+  "label": "Backlink placed on a relevant site"
+ },
+ {
+  "id": "2026-10-06-05",
+  "date": "2026-10-06",
+  "area": "Business listings",
+  "cat": "Citations",
+  "label": "New business listing"
+ },
+ {
+  "id": "2026-10-07-01",
+  "date": "2026-10-07",
+  "area": "Website",
+  "cat": "On-Page",
+  "label": "Seasonal specials page: copy and banner"
+ },
+ {
+  "id": "2026-10-07-02",
+  "date": "2026-10-07",
+  "area": "Reviews",
+  "cat": "Reviews",
+  "label": "Google reviews checked and answered"
+ },
+ {
+  "id": "2026-10-07-03",
+  "date": "2026-10-07",
+  "area": "Social media",
+  "cat": "Social",
+  "label": "Facebook and Instagram post: Offer reminder"
+ },
+ {
+  "id": "2026-10-07-04",
+  "date": "2026-10-07",
+  "area": "Business listings",
+  "cat": "Citations",
+  "label": "New business listing"
+ },
+ {
+  "id": "2026-10-08-01",
+  "date": "2026-10-08",
+  "area": "Website",
+  "cat": "On-Page",
+  "label": "Seasonal specials page: build"
+ },
+ {
+  "id": "2026-10-08-02",
+  "date": "2026-10-08",
+  "area": "Content",
+  "cat": "Content",
+  "label": "Blog published: Emergency heating repair checklist for winter nights"
+ },
+ {
+  "id": "2026-10-08-03",
+  "date": "2026-10-08",
+  "area": "Backlinks",
+  "cat": "Backlinks",
+  "label": "Backlink article written"
+ },
+ {
+  "id": "2026-10-08-04",
+  "date": "2026-10-08",
+  "area": "Business listings",
+  "cat": "Citations",
+  "label": "New business listing"
+ },
+ {
+  "id": "2026-10-09-01",
+  "date": "2026-10-09",
+  "area": "Website",
+  "cat": "On-Page",
+  "label": "Seasonal specials page: goes live"
+ },
+ {
+  "id": "2026-10-09-02",
+  "date": "2026-10-09",
+  "area": "Reviews",
+  "cat": "Reviews",
+  "label": "Google reviews checked and answered"
+ },
+ {
+  "id": "2026-10-09-03",
+  "date": "2026-10-09",
+  "area": "Social media",
+  "cat": "Social",
+  "label": "Facebook and Instagram post: Review share"
+ },
+ {
+  "id": "2026-10-09-04",
+  "date": "2026-10-09",
+  "area": "Business listings",
+  "cat": "Local SEO",
+  "label": "Quality check on new business listings"
+ },
+ {
+  "id": "2026-10-09-05",
+  "date": "2026-10-09",
+  "area": "Local Services Ads",
+  "cat": "LSA",
+  "label": "Local Services Ads profile refresh"
+ },
+ {
+  "id": "2026-10-12-01",
+  "date": "2026-10-12",
+  "area": "Reviews",
+  "cat": "Reviews",
+  "label": "Google reviews checked and answered"
+ },
+ {
+  "id": "2026-10-12-02",
+  "date": "2026-10-12",
+  "area": "Google Business Profile",
+  "cat": "GBP",
+  "label": "Google post: Heater maintenance before the first freeze"
+ },
+ {
+  "id": "2026-10-12-03",
+  "date": "2026-10-12",
+  "area": "Social media",
+  "cat": "Social",
+  "label": "Facebook and Instagram post: Family-owned story"
+ },
+ {
+  "id": "2026-10-12-04",
+  "date": "2026-10-12",
+  "area": "Business listings",
+  "cat": "Local SEO",
+  "label": "Name, address and phone consistency check"
+ },
+ {
+  "id": "2026-10-12-05",
+  "date": "2026-10-12",
+  "area": "Business listings",
+  "cat": "Citations",
+  "label": "New business listing"
+ },
+ {
+  "id": "2026-10-13-01",
+  "date": "2026-10-13",
+  "area": "Website",
+  "cat": "On-Page",
+  "label": "Schema: HVACBusiness + Service schema on home and service pages"
+ },
+ {
+  "id": "2026-10-13-02",
+  "date": "2026-10-13",
+  "area": "Content",
+  "cat": "Content",
+  "label": "Blog draft: Why your furnace is blowing cold air"
+ },
+ {
+  "id": "2026-10-13-03",
+  "date": "2026-10-13",
+  "area": "Local Services Ads",
+  "cat": "LSA",
+  "label": "Local Services Ads lead review"
+ },
+ {
+  "id": "2026-10-13-04",
+  "date": "2026-10-13",
+  "area": "Backlinks",
+  "cat": "Backlinks",
+  "label": "Backlink placed on a relevant site"
+ },
+ {
+  "id": "2026-10-13-05",
+  "date": "2026-10-13",
+  "area": "Business listings",
+  "cat": "Citations",
+  "label": "New business listing"
+ },
+ {
+  "id": "2026-10-14-01",
+  "date": "2026-10-14",
+  "area": "Reviews",
+  "cat": "Reviews",
+  "label": "Google reviews checked and answered"
+ },
+ {
+  "id": "2026-10-14-02",
+  "date": "2026-10-14",
+  "area": "Social media",
+  "cat": "Social",
+  "label": "Facebook and Instagram post: FAQ answer"
+ },
+ {
+  "id": "2026-10-14-03",
+  "date": "2026-10-14",
+  "area": "Business listings",
+  "cat": "Citations",
+  "label": "New business listing"
+ },
+ {
+  "id": "2026-10-14-04",
+  "date": "2026-10-14",
+  "area": "Job photos",
+  "cat": "Photos",
+  "label": "Job photos added to Google Business Profile"
+ },
+ {
+  "id": "2026-10-15-01",
+  "date": "2026-10-15",
+  "area": "Website",
+  "cat": "On-Page",
+  "label": "Schema: FAQ blocks on AC, Heating, Furnace pages"
+ },
+ {
+  "id": "2026-10-15-02",
+  "date": "2026-10-15",
+  "area": "Content",
+  "cat": "Content",
+  "label": "Blog published: Why your furnace is blowing cold air"
+ },
+ {
+  "id": "2026-10-15-03",
+  "date": "2026-10-15",
+  "area": "Backlinks",
+  "cat": "Backlinks",
+  "label": "Backlink article written"
+ },
+ {
+  "id": "2026-10-15-04",
+  "date": "2026-10-15",
+  "area": "Business listings",
+  "cat": "Citations",
+  "label": "New business listing"
+ },
+ {
+  "id": "2026-10-16-01",
+  "date": "2026-10-16",
+  "area": "Reviews",
+  "cat": "Reviews",
+  "label": "Google reviews checked and answered"
+ },
+ {
+  "id": "2026-10-16-02",
+  "date": "2026-10-16",
+  "area": "Social media",
+  "cat": "Social",
+  "label": "Facebook and Instagram post: Before and after"
+ },
+ {
+  "id": "2026-10-16-03",
+  "date": "2026-10-16",
+  "area": "Business listings",
+  "cat": "Local SEO",
+  "label": "Quality check on new business listings"
+ },
+ {
+  "id": "2026-10-16-04",
+  "date": "2026-10-16",
+  "area": "Google Maps",
+  "cat": "Map Pins",
+  "label": "Google Maps pins: Norman service keywords"
+ },
+ {
+  "id": "2026-10-19-01",
+  "date": "2026-10-19",
+  "area": "Website",
+  "cat": "On-Page",
+  "label": "Moore location page: research and copy"
+ },
+ {
+  "id": "2026-10-19-02",
+  "date": "2026-10-19",
+  "area": "Reviews",
+  "cat": "Reviews",
+  "label": "Google reviews checked and answered"
+ },
+ {
+  "id": "2026-10-19-03",
+  "date": "2026-10-19",
+  "area": "Google Business Profile",
+  "cat": "GBP",
+  "label": "Google post: $120 yearly maintenance plan"
+ },
+ {
+  "id": "2026-10-19-04",
+  "date": "2026-10-19",
+  "area": "Social media",
+  "cat": "Social",
+  "label": "Facebook and Instagram post: Local community post"
+ },
+ {
+  "id": "2026-10-19-05",
+  "date": "2026-10-19",
+  "area": "Business listings",
+  "cat": "Local SEO",
+  "label": "Name, address and phone consistency check"
+ },
+ {
+  "id": "2026-10-19-06",
+  "date": "2026-10-19",
+  "area": "Business listings",
+  "cat": "Citations",
+  "label": "New business listing"
+ },
+ {
+  "id": "2026-10-20-01",
+  "date": "2026-10-20",
+  "area": "Content",
+  "cat": "Content",
+  "label": "Blog draft: Why your furnace smells like burning dust"
+ },
+ {
+  "id": "2026-10-20-02",
+  "date": "2026-10-20",
+  "area": "Local Services Ads",
+  "cat": "LSA",
+  "label": "Local Services Ads lead review"
+ },
+ {
+  "id": "2026-10-20-03",
+  "date": "2026-10-20",
+  "area": "Backlinks",
+  "cat": "Backlinks",
+  "label": "Backlink placed on a relevant site"
+ },
+ {
+  "id": "2026-10-20-04",
+  "date": "2026-10-20",
+  "area": "Business listings",
+  "cat": "Citations",
+  "label": "New business listing"
+ },
+ {
+  "id": "2026-10-21-01",
+  "date": "2026-10-21",
+  "area": "Website",
+  "cat": "On-Page",
+  "label": "Moore location page: build"
+ },
+ {
+  "id": "2026-10-21-02",
+  "date": "2026-10-21",
+  "area": "Reviews",
+  "cat": "Reviews",
+  "label": "Google reviews checked and answered"
+ },
+ {
+  "id": "2026-10-21-03",
+  "date": "2026-10-21",
+  "area": "Social media",
+  "cat": "Social",
+  "label": "Facebook and Instagram post: Maintenance reminder"
+ },
+ {
+  "id": "2026-10-21-04",
+  "date": "2026-10-21",
+  "area": "Business listings",
+  "cat": "Citations",
+  "label": "New business listing"
+ },
+ {
+  "id": "2026-10-22-01",
+  "date": "2026-10-22",
+  "area": "Website",
+  "cat": "On-Page",
+  "label": "Moore location page: goes live"
+ },
+ {
+  "id": "2026-10-22-02",
+  "date": "2026-10-22",
+  "area": "Content",
+  "cat": "Content",
+  "label": "Blog published: Why your furnace smells like burning dust"
+ },
+ {
+  "id": "2026-10-22-03",
+  "date": "2026-10-22",
+  "area": "Business listings",
+  "cat": "Citations",
+  "label": "New business listing"
+ },
+ {
+  "id": "2026-10-23-01",
+  "date": "2026-10-23",
+  "area": "Reviews",
+  "cat": "Reviews",
+  "label": "Google reviews checked and answered"
+ },
+ {
+  "id": "2026-10-23-02",
+  "date": "2026-10-23",
+  "area": "Social media",
+  "cat": "Social",
+  "label": "Facebook and Instagram post: Recent job photo"
+ },
+ {
+  "id": "2026-10-23-03",
+  "date": "2026-10-23",
+  "area": "Business listings",
+  "cat": "Local SEO",
+  "label": "Quality check on new business listings"
+ },
+ {
+  "id": "2026-10-26-01",
+  "date": "2026-10-26",
+  "area": "Reviews",
+  "cat": "Reviews",
+  "label": "Google reviews checked and answered"
+ },
+ {
+  "id": "2026-10-26-02",
+  "date": "2026-10-26",
+  "area": "Google Business Profile",
+  "cat": "GBP",
+  "label": "Google post: HVAC service in Moore, OK"
+ },
+ {
+  "id": "2026-10-26-03",
+  "date": "2026-10-26",
+  "area": "Social media",
+  "cat": "Social",
+  "label": "Facebook and Instagram post: Seasonal tip"
+ },
+ {
+  "id": "2026-10-26-04",
+  "date": "2026-10-26",
+  "area": "Business listings",
+  "cat": "Local SEO",
+  "label": "Name, address and phone consistency check"
+ },
+ {
+  "id": "2026-10-26-05",
+  "date": "2026-10-26",
+  "area": "Business listings",
+  "cat": "Citations",
+  "label": "New business listing"
+ },
+ {
+  "id": "2026-10-27-01",
+  "date": "2026-10-27",
+  "area": "Tracking",
+  "cat": "Tracking",
+  "label": "Website traffic quality check"
+ },
+ {
+  "id": "2026-10-27-02",
+  "date": "2026-10-27",
+  "area": "Content",
+  "cat": "Content",
+  "label": "Blog draft: HVAC maintenance checklist before winter"
+ },
+ {
+  "id": "2026-10-27-03",
+  "date": "2026-10-27",
+  "area": "Local Services Ads",
+  "cat": "LSA",
+  "label": "Local Services Ads lead review"
+ },
+ {
+  "id": "2026-10-27-04",
+  "date": "2026-10-27",
+  "area": "Backlinks",
+  "cat": "Backlinks",
+  "label": "Backlink placed on a relevant site"
+ },
+ {
+  "id": "2026-10-27-05",
+  "date": "2026-10-27",
+  "area": "Business listings",
+  "cat": "Citations",
+  "label": "New business listing"
+ },
+ {
+  "id": "2026-10-28-01",
+  "date": "2026-10-28",
+  "area": "Tracking",
+  "cat": "Tracking",
+  "label": "UTM tags on GBP website/booking links and social bio links"
+ },
+ {
+  "id": "2026-10-28-02",
+  "date": "2026-10-28",
+  "area": "Reviews",
+  "cat": "Reviews",
+  "label": "Google reviews checked and answered"
+ },
+ {
+  "id": "2026-10-28-03",
+  "date": "2026-10-28",
+  "area": "Social media",
+  "cat": "Social",
+  "label": "Facebook and Instagram post: Offer reminder"
+ },
+ {
+  "id": "2026-10-28-04",
+  "date": "2026-10-28",
+  "area": "Business listings",
+  "cat": "Citations",
+  "label": "New business listing"
+ },
+ {
+  "id": "2026-10-28-05",
+  "date": "2026-10-28",
+  "area": "Job photos",
+  "cat": "Photos",
+  "label": "Job photos added to Google Business Profile"
+ },
+ {
+  "id": "2026-10-29-01",
+  "date": "2026-10-29",
+  "area": "Content",
+  "cat": "Content",
+  "label": "Blog published: HVAC maintenance checklist before winter"
+ },
+ {
+  "id": "2026-10-29-02",
+  "date": "2026-10-29",
+  "area": "Business listings",
+  "cat": "Citations",
+  "label": "New business listing"
+ },
+ {
+  "id": "2026-10-30-02",
+  "date": "2026-10-30",
+  "area": "Reviews",
+  "cat": "Reviews",
+  "label": "Google reviews checked and answered"
+ },
+ {
+  "id": "2026-10-30-03",
+  "date": "2026-10-30",
+  "area": "Social media",
+  "cat": "Social",
+  "label": "Facebook and Instagram post: Review share"
+ },
+ {
+  "id": "2026-10-30-04",
+  "date": "2026-10-30",
+  "area": "Business listings",
+  "cat": "Local SEO",
+  "label": "Quality check on new business listings"
+ },
+ {
+  "id": "2026-10-30-05",
+  "date": "2026-10-30",
+  "area": "Google Maps",
+  "cat": "Map Pins",
+  "label": "Google Maps pins: Del City service keywords"
+ },
+ {
+  "id": "2026-11-02-01",
+  "date": "2026-11-02",
+  "area": "Tracking",
+  "cat": "Tracking",
+  "label": "Monthly map-pack ranking scan"
+ },
+ {
+  "id": "2026-11-02-02",
+  "date": "2026-11-02",
+  "area": "Reviews",
+  "cat": "Reviews",
+  "label": "Google reviews checked and answered"
+ },
+ {
+  "id": "2026-11-02-03",
+  "date": "2026-11-02",
+  "area": "Google Business Profile",
+  "cat": "GBP",
+  "label": "Google post: Free second opinions"
+ },
+ {
+  "id": "2026-11-02-04",
+  "date": "2026-11-02",
+  "area": "Social media",
+  "cat": "Social",
+  "label": "Facebook and Instagram post: Family-owned story"
+ },
+ {
+  "id": "2026-11-02-05",
+  "date": "2026-11-02",
+  "area": "Business listings",
+  "cat": "Local SEO",
+  "label": "Name, address and phone consistency check"
+ },
+ {
+  "id": "2026-11-02-06",
+  "date": "2026-11-02",
+  "area": "Business listings",
+  "cat": "Citations",
+  "label": "New business listing"
+ },
+ {
+  "id": "2026-11-03-01",
+  "date": "2026-11-03",
+  "area": "Website",
+  "cat": "On-Page",
+  "label": "Norman location page: research and copy"
+ },
+ {
+  "id": "2026-11-03-02",
+  "date": "2026-11-03",
+  "area": "Content",
+  "cat": "Content",
+  "label": "Blog draft: Best thermostat settings for Oklahoma winter"
+ },
+ {
+  "id": "2026-11-03-03",
+  "date": "2026-11-03",
+  "area": "Local Services Ads",
+  "cat": "LSA",
+  "label": "Local Services Ads lead review"
+ },
+ {
+  "id": "2026-11-03-04",
+  "date": "2026-11-03",
+  "area": "Business listings",
+  "cat": "Citations",
+  "label": "New business listing"
+ },
+ {
+  "id": "2026-11-04-01",
+  "date": "2026-11-04",
+  "area": "Website",
+  "cat": "On-Page",
+  "label": "Norman location page: build"
+ },
+ {
+  "id": "2026-11-04-02",
+  "date": "2026-11-04",
+  "area": "Reviews",
+  "cat": "Reviews",
+  "label": "Google reviews checked and answered"
+ },
+ {
+  "id": "2026-11-04-03",
+  "date": "2026-11-04",
+  "area": "Social media",
+  "cat": "Social",
+  "label": "Facebook and Instagram post: FAQ answer"
+ },
+ {
+  "id": "2026-11-04-04",
+  "date": "2026-11-04",
+  "area": "Business listings",
+  "cat": "Citations",
+  "label": "New business listing"
+ },
+ {
+  "id": "2026-11-05-01",
+  "date": "2026-11-05",
+  "area": "Website",
+  "cat": "On-Page",
+  "label": "Norman location page: goes live"
+ },
+ {
+  "id": "2026-11-05-02",
+  "date": "2026-11-05",
+  "area": "Content",
+  "cat": "Content",
+  "label": "Blog published: Best thermostat settings for Oklahoma winter"
+ },
+ {
+  "id": "2026-11-05-03",
+  "date": "2026-11-05",
+  "area": "Backlinks",
+  "cat": "Backlinks",
+  "label": "Backlink article written"
+ },
+ {
+  "id": "2026-11-05-04",
+  "date": "2026-11-05",
+  "area": "Business listings",
+  "cat": "Citations",
+  "label": "New business listing"
+ },
+ {
+  "id": "2026-11-06-01",
+  "date": "2026-11-06",
+  "area": "Reviews",
+  "cat": "Reviews",
+  "label": "Google reviews checked and answered"
+ },
+ {
+  "id": "2026-11-06-02",
+  "date": "2026-11-06",
+  "area": "Social media",
+  "cat": "Social",
+  "label": "Facebook and Instagram post: Before and after"
+ },
+ {
+  "id": "2026-11-06-03",
+  "date": "2026-11-06",
+  "area": "Business listings",
+  "cat": "Local SEO",
+  "label": "Quality check on new business listings"
+ },
+ {
+  "id": "2026-11-09-01",
+  "date": "2026-11-09",
+  "area": "Reviews",
+  "cat": "Reviews",
+  "label": "Google reviews checked and answered"
+ },
+ {
+  "id": "2026-11-09-02",
+  "date": "2026-11-09",
+  "area": "Google Business Profile",
+  "cat": "GBP",
+  "label": "Google post: Water heater repair and installation"
+ },
+ {
+  "id": "2026-11-09-03",
+  "date": "2026-11-09",
+  "area": "Social media",
+  "cat": "Social",
+  "label": "Facebook and Instagram post: Local community post"
+ },
+ {
+  "id": "2026-11-09-04",
+  "date": "2026-11-09",
+  "area": "Business listings",
+  "cat": "Local SEO",
+  "label": "Name, address and phone consistency check"
+ },
+ {
+  "id": "2026-11-09-05",
+  "date": "2026-11-09",
+  "area": "Business listings",
+  "cat": "Citations",
+  "label": "New business listing"
+ },
+ {
+  "id": "2026-11-10-01",
+  "date": "2026-11-10",
+  "area": "AI search",
+  "cat": "AI Search",
+  "label": "Business details aligned for AI search tools"
+ },
+ {
+  "id": "2026-11-10-02",
+  "date": "2026-11-10",
+  "area": "Content",
+  "cat": "Content",
+  "label": "Blog draft: How to reduce heating bills in Oklahoma winters"
+ },
+ {
+  "id": "2026-11-10-03",
+  "date": "2026-11-10",
+  "area": "Local Services Ads",
+  "cat": "LSA",
+  "label": "Local Services Ads lead review"
+ },
+ {
+  "id": "2026-11-10-04",
+  "date": "2026-11-10",
+  "area": "Backlinks",
+  "cat": "Backlinks",
+  "label": "Backlink placed on a relevant site"
+ },
+ {
+  "id": "2026-11-10-05",
+  "date": "2026-11-10",
+  "area": "Business listings",
+  "cat": "Citations",
+  "label": "New business listing"
+ },
+ {
+  "id": "2026-11-11-01",
+  "date": "2026-11-11",
+  "area": "Reviews",
+  "cat": "Reviews",
+  "label": "Google reviews checked and answered"
+ },
+ {
+  "id": "2026-11-11-02",
+  "date": "2026-11-11",
+  "area": "Social media",
+  "cat": "Social",
+  "label": "Facebook and Instagram post: Maintenance reminder"
+ },
+ {
+  "id": "2026-11-11-03",
+  "date": "2026-11-11",
+  "area": "Business listings",
+  "cat": "Citations",
+  "label": "New business listing"
+ },
+ {
+  "id": "2026-11-11-04",
+  "date": "2026-11-11",
+  "area": "Job photos",
+  "cat": "Photos",
+  "label": "Job photos added to Google Business Profile"
+ },
+ {
+  "id": "2026-11-12-01",
+  "date": "2026-11-12",
+  "area": "AI search",
+  "cat": "AI Search",
+  "label": "Q&A blocks answering common AI-search questions on service pages"
+ },
+ {
+  "id": "2026-11-12-02",
+  "date": "2026-11-12",
+  "area": "Content",
+  "cat": "Content",
+  "label": "Blog published: How to reduce heating bills in Oklahoma winters"
+ },
+ {
+  "id": "2026-11-12-03",
+  "date": "2026-11-12",
+  "area": "Backlinks",
+  "cat": "Backlinks",
+  "label": "Backlink article written"
+ },
+ {
+  "id": "2026-11-12-04",
+  "date": "2026-11-12",
+  "area": "Business listings",
+  "cat": "Citations",
+  "label": "New business listing"
+ },
+ {
+  "id": "2026-11-13-01",
+  "date": "2026-11-13",
+  "area": "Reviews",
+  "cat": "Reviews",
+  "label": "Google reviews checked and answered"
+ },
+ {
+  "id": "2026-11-13-02",
+  "date": "2026-11-13",
+  "area": "Social media",
+  "cat": "Social",
+  "label": "Facebook and Instagram post: Recent job photo"
+ },
+ {
+  "id": "2026-11-13-03",
+  "date": "2026-11-13",
+  "area": "Business listings",
+  "cat": "Local SEO",
+  "label": "Quality check on new business listings"
+ },
+ {
+  "id": "2026-11-13-04",
+  "date": "2026-11-13",
+  "area": "Google Maps",
+  "cat": "Map Pins",
+  "label": "Google Maps pins: Edmond service keywords"
+ },
+ {
+  "id": "2026-11-13-05",
+  "date": "2026-11-13",
+  "area": "Local Services Ads",
+  "cat": "LSA",
+  "label": "Local Services Ads profile refresh"
+ },
+ {
+  "id": "2026-11-16-01",
+  "date": "2026-11-16",
+  "area": "Reviews",
+  "cat": "Reviews",
+  "label": "Google reviews checked and answered"
+ },
+ {
+  "id": "2026-11-16-02",
+  "date": "2026-11-16",
+  "area": "Google Business Profile",
+  "cat": "GBP",
+  "label": "Google post: Heat pump vs furnace: which fits your home"
+ },
+ {
+  "id": "2026-11-16-03",
+  "date": "2026-11-16",
+  "area": "Social media",
+  "cat": "Social",
+  "label": "Facebook and Instagram post: Seasonal tip"
+ },
+ {
+  "id": "2026-11-16-04",
+  "date": "2026-11-16",
+  "area": "Business listings",
+  "cat": "Local SEO",
+  "label": "Name, address and phone consistency check"
+ },
+ {
+  "id": "2026-11-16-05",
+  "date": "2026-11-16",
+  "area": "Business listings",
+  "cat": "Citations",
+  "label": "New business listing"
+ },
+ {
+  "id": "2026-11-17-01",
+  "date": "2026-11-17",
+  "area": "Website",
+  "cat": "On-Page",
+  "label": "Internal linking pass: blogs to service/location pages"
+ },
+ {
+  "id": "2026-11-17-02",
+  "date": "2026-11-17",
+  "area": "Content",
+  "cat": "Content",
+  "label": "Blog draft: Heat pump vs furnace efficiency comparison"
+ },
+ {
+  "id": "2026-11-17-03",
+  "date": "2026-11-17",
+  "area": "Local Services Ads",
+  "cat": "LSA",
+  "label": "Local Services Ads lead review"
+ },
+ {
+  "id": "2026-11-17-04",
+  "date": "2026-11-17",
+  "area": "Backlinks",
+  "cat": "Backlinks",
+  "label": "Backlink placed on a relevant site"
+ },
+ {
+  "id": "2026-11-17-05",
+  "date": "2026-11-17",
+  "area": "Business listings",
+  "cat": "Citations",
+  "label": "New business listing"
+ },
+ {
+  "id": "2026-11-18-01",
+  "date": "2026-11-18",
+  "area": "Reviews",
+  "cat": "Reviews",
+  "label": "Google reviews checked and answered"
+ },
+ {
+  "id": "2026-11-18-02",
+  "date": "2026-11-18",
+  "area": "Social media",
+  "cat": "Social",
+  "label": "Facebook and Instagram post: Offer reminder"
+ },
+ {
+  "id": "2026-11-18-03",
+  "date": "2026-11-18",
+  "area": "Business listings",
+  "cat": "Citations",
+  "label": "New business listing"
+ },
+ {
+  "id": "2026-11-19-01",
+  "date": "2026-11-19",
+  "area": "Website",
+  "cat": "On-Page",
+  "label": "Thin-page fixes: About, Contact, Maintenance Plans"
+ },
+ {
+  "id": "2026-11-19-02",
+  "date": "2026-11-19",
+  "area": "Content",
+  "cat": "Content",
+  "label": "Blog published: Heat pump vs furnace efficiency comparison"
+ },
+ {
+  "id": "2026-11-19-03",
+  "date": "2026-11-19",
+  "area": "Backlinks",
+  "cat": "Backlinks",
+  "label": "Backlink article written"
+ },
+ {
+  "id": "2026-11-19-04",
+  "date": "2026-11-19",
+  "area": "Business listings",
+  "cat": "Citations",
+  "label": "New business listing"
+ },
+ {
+  "id": "2026-11-20-01",
+  "date": "2026-11-20",
+  "area": "Reviews",
+  "cat": "Reviews",
+  "label": "Google reviews checked and answered"
+ },
+ {
+  "id": "2026-11-20-02",
+  "date": "2026-11-20",
+  "area": "Social media",
+  "cat": "Social",
+  "label": "Facebook and Instagram post: Review share"
+ },
+ {
+  "id": "2026-11-20-03",
+  "date": "2026-11-20",
+  "area": "Business listings",
+  "cat": "Local SEO",
+  "label": "Quality check on new business listings"
+ },
+ {
+  "id": "2026-11-23-01",
+  "date": "2026-11-23",
+  "area": "Reviews",
+  "cat": "Reviews",
+  "label": "Google reviews checked and answered"
+ },
+ {
+  "id": "2026-11-23-02",
+  "date": "2026-11-23",
+  "area": "Google Business Profile",
+  "cat": "GBP",
+  "label": "Google post: Lennox equipment with 10-year parts warranty"
+ },
+ {
+  "id": "2026-11-23-03",
+  "date": "2026-11-23",
+  "area": "Social media",
+  "cat": "Social",
+  "label": "Facebook and Instagram post: Family-owned story"
+ },
+ {
+  "id": "2026-11-23-04",
+  "date": "2026-11-23",
+  "area": "Business listings",
+  "cat": "Local SEO",
+  "label": "Name, address and phone consistency check"
+ },
+ {
+  "id": "2026-11-23-05",
+  "date": "2026-11-23",
+  "area": "Business listings",
+  "cat": "Citations",
+  "label": "New business listing"
+ },
+ {
+  "id": "2026-11-24-01",
+  "date": "2026-11-24",
+  "area": "Website",
+  "cat": "On-Page",
+  "label": "Update specials page for winter/holiday offers"
+ },
+ {
+  "id": "2026-11-24-02",
+  "date": "2026-11-24",
+  "area": "Content",
+  "cat": "Content",
+  "label": "Blog draft: How much does furnace repair cost in Oklahoma?"
+ },
+ {
+  "id": "2026-11-24-03",
+  "date": "2026-11-24",
+  "area": "Local Services Ads",
+  "cat": "LSA",
+  "label": "Local Services Ads lead review"
+ },
+ {
+  "id": "2026-11-24-04",
+  "date": "2026-11-24",
+  "area": "Backlinks",
+  "cat": "Backlinks",
+  "label": "Backlink placed on a relevant site"
+ },
+ {
+  "id": "2026-11-24-05",
+  "date": "2026-11-24",
+  "area": "Business listings",
+  "cat": "Citations",
+  "label": "New business listing"
+ },
+ {
+  "id": "2026-11-25-01",
+  "date": "2026-11-25",
+  "area": "Reviews",
+  "cat": "Reviews",
+  "label": "Google reviews checked and answered"
+ },
+ {
+  "id": "2026-11-25-02",
+  "date": "2026-11-25",
+  "area": "Social media",
+  "cat": "Social",
+  "label": "Facebook and Instagram post: FAQ answer"
+ },
+ {
+  "id": "2026-11-25-03",
+  "date": "2026-11-25",
+  "area": "Business listings",
+  "cat": "Citations",
+  "label": "New business listing"
+ },
+ {
+  "id": "2026-11-25-04",
+  "date": "2026-11-25",
+  "area": "Job photos",
+  "cat": "Photos",
+  "label": "Job photos added to Google Business Profile"
+ },
+ {
+  "id": "2026-11-26-01",
+  "date": "2026-11-26",
+  "area": "Content",
+  "cat": "Content",
+  "label": "Blog published: How much does furnace repair cost in Oklahoma?"
+ },
+ {
+  "id": "2026-11-26-02",
+  "date": "2026-11-26",
+  "area": "Business listings",
+  "cat": "Citations",
+  "label": "New business listing"
+ },
+ {
+  "id": "2026-11-27-01",
+  "date": "2026-11-27",
+  "area": "Reviews",
+  "cat": "Reviews",
+  "label": "Google reviews checked and answered"
+ },
+ {
+  "id": "2026-11-27-02",
+  "date": "2026-11-27",
+  "area": "Social media",
+  "cat": "Social",
+  "label": "Facebook and Instagram post: Before and after"
+ },
+ {
+  "id": "2026-11-27-03",
+  "date": "2026-11-27",
+  "area": "Business listings",
+  "cat": "Local SEO",
+  "label": "Quality check on new business listings"
+ },
+ {
+  "id": "2026-11-27-04",
+  "date": "2026-11-27",
+  "area": "Google Maps",
+  "cat": "Map Pins",
+  "label": "Google Maps pins: Midwest City service keywords"
+ },
+ {
+  "id": "2026-11-30-02",
+  "date": "2026-11-30",
+  "area": "Reviews",
+  "cat": "Reviews",
+  "label": "Google reviews checked and answered"
+ },
+ {
+  "id": "2026-11-30-03",
+  "date": "2026-11-30",
+  "area": "Google Business Profile",
+  "cat": "GBP",
+  "label": "Google post: Stay warm through the holidays"
+ },
+ {
+  "id": "2026-11-30-04",
+  "date": "2026-11-30",
+  "area": "Social media",
+  "cat": "Social",
+  "label": "Facebook and Instagram post: Local community post"
+ },
+ {
+  "id": "2026-11-30-05",
+  "date": "2026-11-30",
+  "area": "Business listings",
+  "cat": "Local SEO",
+  "label": "Name, address and phone consistency check"
+ },
+ {
+  "id": "2026-11-30-06",
+  "date": "2026-11-30",
+  "area": "Business listings",
+  "cat": "Citations",
+  "label": "New business listing"
+ },
+ {
+  "id": "2026-12-01-01",
+  "date": "2026-12-01",
+  "area": "Tracking",
+  "cat": "Tracking",
+  "label": "Monthly map-pack ranking scan"
+ },
+ {
+  "id": "2026-12-01-02",
+  "date": "2026-12-01",
+  "area": "Website",
+  "cat": "On-Page",
+  "label": "Del City location page: research and copy"
+ },
+ {
+  "id": "2026-12-01-03",
+  "date": "2026-12-01",
+  "area": "Content",
+  "cat": "Content",
+  "label": "Blog draft: Signs your heating system is unsafe to use"
+ },
+ {
+  "id": "2026-12-01-04",
+  "date": "2026-12-01",
+  "area": "Local Services Ads",
+  "cat": "LSA",
+  "label": "Local Services Ads lead review"
+ },
+ {
+  "id": "2026-12-01-05",
+  "date": "2026-12-01",
+  "area": "Business listings",
+  "cat": "Citations",
+  "label": "New business listing"
+ },
+ {
+  "id": "2026-12-02-01",
+  "date": "2026-12-02",
+  "area": "Website",
+  "cat": "On-Page",
+  "label": "Del City location page: build"
+ },
+ {
+  "id": "2026-12-02-02",
+  "date": "2026-12-02",
+  "area": "Reviews",
+  "cat": "Reviews",
+  "label": "Google reviews checked and answered"
+ },
+ {
+  "id": "2026-12-02-03",
+  "date": "2026-12-02",
+  "area": "Social media",
+  "cat": "Social",
+  "label": "Facebook and Instagram post: Maintenance reminder"
+ },
+ {
+  "id": "2026-12-02-04",
+  "date": "2026-12-02",
+  "area": "Business listings",
+  "cat": "Citations",
+  "label": "New business listing"
+ },
+ {
+  "id": "2026-12-03-01",
+  "date": "2026-12-03",
+  "area": "Website",
+  "cat": "On-Page",
+  "label": "Del City location page: goes live"
+ },
+ {
+  "id": "2026-12-03-02",
+  "date": "2026-12-03",
+  "area": "Content",
+  "cat": "Content",
+  "label": "Blog published: Signs your heating system is unsafe to use"
+ },
+ {
+  "id": "2026-12-03-03",
+  "date": "2026-12-03",
+  "area": "Backlinks",
+  "cat": "Backlinks",
+  "label": "Backlink article written"
+ },
+ {
+  "id": "2026-12-03-04",
+  "date": "2026-12-03",
+  "area": "Business listings",
+  "cat": "Citations",
+  "label": "New business listing"
+ },
+ {
+  "id": "2026-12-04-01",
+  "date": "2026-12-04",
+  "area": "Reviews",
+  "cat": "Reviews",
+  "label": "Google reviews checked and answered"
+ },
+ {
+  "id": "2026-12-04-02",
+  "date": "2026-12-04",
+  "area": "Social media",
+  "cat": "Social",
+  "label": "Facebook and Instagram post: Recent job photo"
+ },
+ {
+  "id": "2026-12-04-03",
+  "date": "2026-12-04",
+  "area": "Business listings",
+  "cat": "Local SEO",
+  "label": "Quality check on new business listings"
+ },
+ {
+  "id": "2026-12-07-01",
+  "date": "2026-12-07",
+  "area": "Reviews",
+  "cat": "Reviews",
+  "label": "Google reviews checked and answered"
+ },
+ {
+  "id": "2026-12-07-02",
+  "date": "2026-12-07",
+  "area": "Google Business Profile",
+  "cat": "GBP",
+  "label": "Google post: HVAC service in Norman, OK"
+ },
+ {
+  "id": "2026-12-07-03",
+  "date": "2026-12-07",
+  "area": "Social media",
+  "cat": "Social",
+  "label": "Facebook and Instagram post: Seasonal tip"
+ },
+ {
+  "id": "2026-12-07-04",
+  "date": "2026-12-07",
+  "area": "Business listings",
+  "cat": "Local SEO",
+  "label": "Name, address and phone consistency check"
+ },
+ {
+  "id": "2026-12-07-05",
+  "date": "2026-12-07",
+  "area": "Business listings",
+  "cat": "Citations",
+  "label": "New business listing"
+ },
+ {
+  "id": "2026-12-08-01",
+  "date": "2026-12-08",
+  "area": "Website",
+  "cat": "On-Page",
+  "label": "Heating + Furnace page refresh: winter FAQs, fresh job photos"
+ },
+ {
+  "id": "2026-12-08-02",
+  "date": "2026-12-08",
+  "area": "Content",
+  "cat": "Content",
+  "label": "Blog draft: Why your furnace keeps shutting off"
+ },
+ {
+  "id": "2026-12-08-03",
+  "date": "2026-12-08",
+  "area": "Local Services Ads",
+  "cat": "LSA",
+  "label": "Local Services Ads lead review"
+ },
+ {
+  "id": "2026-12-08-04",
+  "date": "2026-12-08",
+  "area": "Backlinks",
+  "cat": "Backlinks",
+  "label": "Backlink placed on a relevant site"
+ },
+ {
+  "id": "2026-12-08-05",
+  "date": "2026-12-08",
+  "area": "Business listings",
+  "cat": "Citations",
+  "label": "New business listing"
+ },
+ {
+  "id": "2026-12-09-01",
+  "date": "2026-12-09",
+  "area": "Reviews",
+  "cat": "Reviews",
+  "label": "Google reviews checked and answered"
+ },
+ {
+  "id": "2026-12-09-02",
+  "date": "2026-12-09",
+  "area": "Social media",
+  "cat": "Social",
+  "label": "Facebook and Instagram post: Offer reminder"
+ },
+ {
+  "id": "2026-12-09-03",
+  "date": "2026-12-09",
+  "area": "Business listings",
+  "cat": "Citations",
+  "label": "New business listing"
+ },
+ {
+  "id": "2026-12-09-04",
+  "date": "2026-12-09",
+  "area": "Job photos",
+  "cat": "Photos",
+  "label": "Job photos added to Google Business Profile"
+ },
+ {
+  "id": "2026-12-10-01",
+  "date": "2026-12-10",
+  "area": "Content",
+  "cat": "Content",
+  "label": "Blog published: Why your furnace keeps shutting off"
+ },
+ {
+  "id": "2026-12-10-02",
+  "date": "2026-12-10",
+  "area": "Backlinks",
+  "cat": "Backlinks",
+  "label": "Backlink article written"
+ },
+ {
+  "id": "2026-12-10-03",
+  "date": "2026-12-10",
+  "area": "Business listings",
+  "cat": "Citations",
+  "label": "New business listing"
+ },
+ {
+  "id": "2026-12-11-01",
+  "date": "2026-12-11",
+  "area": "Reviews",
+  "cat": "Reviews",
+  "label": "Google reviews checked and answered"
+ },
+ {
+  "id": "2026-12-11-02",
+  "date": "2026-12-11",
+  "area": "Social media",
+  "cat": "Social",
+  "label": "Facebook and Instagram post: Review share"
+ },
+ {
+  "id": "2026-12-11-03",
+  "date": "2026-12-11",
+  "area": "Business listings",
+  "cat": "Local SEO",
+  "label": "Quality check on new business listings"
+ },
+ {
+  "id": "2026-12-11-04",
+  "date": "2026-12-11",
+  "area": "Google Maps",
+  "cat": "Map Pins",
+  "label": "Google Maps pins: Yukon service keywords"
+ },
+ {
+  "id": "2026-12-11-05",
+  "date": "2026-12-11",
+  "area": "Local Services Ads",
+  "cat": "LSA",
+  "label": "Local Services Ads profile refresh"
+ },
+ {
+  "id": "2026-12-14-01",
+  "date": "2026-12-14",
+  "area": "Reviews",
+  "cat": "Reviews",
+  "label": "Google reviews checked and answered"
+ },
+ {
+  "id": "2026-12-14-02",
+  "date": "2026-12-14",
+  "area": "Google Business Profile",
+  "cat": "GBP",
+  "label": "Google post: HVAC service in Del City, OK"
+ },
+ {
+  "id": "2026-12-14-03",
+  "date": "2026-12-14",
+  "area": "Social media",
+  "cat": "Social",
+  "label": "Facebook and Instagram post: Family-owned story"
+ },
+ {
+  "id": "2026-12-14-04",
+  "date": "2026-12-14",
+  "area": "Business listings",
+  "cat": "Local SEO",
+  "label": "Name, address and phone consistency check"
+ },
+ {
+  "id": "2026-12-14-05",
+  "date": "2026-12-14",
+  "area": "Business listings",
+  "cat": "Citations",
+  "label": "New business listing"
+ },
+ {
+  "id": "2026-12-15-01",
+  "date": "2026-12-15",
+  "area": "Reviews",
+  "cat": "Reviews",
+  "label": "Review request kit: text, email and QR card"
+ },
+ {
+  "id": "2026-12-15-02",
+  "date": "2026-12-15",
+  "area": "Content",
+  "cat": "Content",
+  "label": "Blog draft: How long should a furnace last?"
+ },
+ {
+  "id": "2026-12-15-03",
+  "date": "2026-12-15",
+  "area": "Local Services Ads",
+  "cat": "LSA",
+  "label": "Local Services Ads lead review"
+ },
+ {
+  "id": "2026-12-15-04",
+  "date": "2026-12-15",
+  "area": "Backlinks",
+  "cat": "Backlinks",
+  "label": "Backlink placed on a relevant site"
+ },
+ {
+  "id": "2026-12-15-05",
+  "date": "2026-12-15",
+  "area": "Business listings",
+  "cat": "Citations",
+  "label": "New business listing"
+ },
+ {
+  "id": "2026-12-16-01",
+  "date": "2026-12-16",
+  "area": "Reviews",
+  "cat": "Reviews",
+  "label": "Google reviews checked and answered"
+ },
+ {
+  "id": "2026-12-16-02",
+  "date": "2026-12-16",
+  "area": "Social media",
+  "cat": "Social",
+  "label": "Facebook and Instagram post: FAQ answer"
+ },
+ {
+  "id": "2026-12-16-03",
+  "date": "2026-12-16",
+  "area": "Business listings",
+  "cat": "Citations",
+  "label": "New business listing"
+ },
+ {
+  "id": "2026-12-17-01",
+  "date": "2026-12-17",
+  "area": "Content",
+  "cat": "Content",
+  "label": "Blog published: How long should a furnace last?"
+ },
+ {
+  "id": "2026-12-17-02",
+  "date": "2026-12-17",
+  "area": "Backlinks",
+  "cat": "Backlinks",
+  "label": "Backlink article written"
+ },
+ {
+  "id": "2026-12-17-03",
+  "date": "2026-12-17",
+  "area": "Business listings",
+  "cat": "Citations",
+  "label": "New business listing"
+ },
+ {
+  "id": "2026-12-18-01",
+  "date": "2026-12-18",
+  "area": "Reviews",
+  "cat": "Reviews",
+  "label": "Google reviews checked and answered"
+ },
+ {
+  "id": "2026-12-18-02",
+  "date": "2026-12-18",
+  "area": "Social media",
+  "cat": "Social",
+  "label": "Facebook and Instagram post: Before and after"
+ },
+ {
+  "id": "2026-12-18-03",
+  "date": "2026-12-18",
+  "area": "Business listings",
+  "cat": "Local SEO",
+  "label": "Quality check on new business listings"
+ },
+ {
+  "id": "2026-12-21-01",
+  "date": "2026-12-21",
+  "area": "Reviews",
+  "cat": "Reviews",
+  "label": "Google reviews checked and answered"
+ },
+ {
+  "id": "2026-12-21-02",
+  "date": "2026-12-21",
+  "area": "Google Business Profile",
+  "cat": "GBP",
+  "label": "Google post: $500 off HVAC replacement before year-end"
+ },
+ {
+  "id": "2026-12-21-03",
+  "date": "2026-12-21",
+  "area": "Social media",
+  "cat": "Social",
+  "label": "Facebook and Instagram post: Local community post"
+ },
+ {
+  "id": "2026-12-21-04",
+  "date": "2026-12-21",
+  "area": "Business listings",
+  "cat": "Local SEO",
+  "label": "Name, address and phone consistency check"
+ },
+ {
+  "id": "2026-12-21-05",
+  "date": "2026-12-21",
+  "area": "Business listings",
+  "cat": "Citations",
+  "label": "New business listing"
+ },
+ {
+  "id": "2026-12-22-01",
+  "date": "2026-12-22",
+  "area": "Website",
+  "cat": "On-Page",
+  "label": "PageSpeed / Core Web Vitals fixes on top pages"
+ },
+ {
+  "id": "2026-12-22-02",
+  "date": "2026-12-22",
+  "area": "Content",
+  "cat": "Content",
+  "label": "Blog draft: How to safely reset your furnace"
+ },
+ {
+  "id": "2026-12-22-03",
+  "date": "2026-12-22",
+  "area": "Local Services Ads",
+  "cat": "LSA",
+  "label": "Local Services Ads lead review"
+ },
+ {
+  "id": "2026-12-22-04",
+  "date": "2026-12-22",
+  "area": "Backlinks",
+  "cat": "Backlinks",
+  "label": "Backlink placed on a relevant site"
+ },
+ {
+  "id": "2026-12-22-05",
+  "date": "2026-12-22",
+  "area": "Business listings",
+  "cat": "Citations",
+  "label": "New business listing"
+ },
+ {
+  "id": "2026-12-23-01",
+  "date": "2026-12-23",
+  "area": "Reviews",
+  "cat": "Reviews",
+  "label": "Google reviews checked and answered"
+ },
+ {
+  "id": "2026-12-23-02",
+  "date": "2026-12-23",
+  "area": "Social media",
+  "cat": "Social",
+  "label": "Facebook and Instagram post: Maintenance reminder"
+ },
+ {
+  "id": "2026-12-23-03",
+  "date": "2026-12-23",
+  "area": "Business listings",
+  "cat": "Citations",
+  "label": "New business listing"
+ },
+ {
+  "id": "2026-12-23-04",
+  "date": "2026-12-23",
+  "area": "Job photos",
+  "cat": "Photos",
+  "label": "Job photos added to Google Business Profile"
+ },
+ {
+  "id": "2026-12-24-01",
+  "date": "2026-12-24",
+  "area": "Content",
+  "cat": "Content",
+  "label": "Blog published: How to safely reset your furnace"
+ },
+ {
+  "id": "2026-12-24-02",
+  "date": "2026-12-24",
+  "area": "Business listings",
+  "cat": "Citations",
+  "label": "New business listing"
+ },
+ {
+  "id": "2026-12-25-01",
+  "date": "2026-12-25",
+  "area": "Reviews",
+  "cat": "Reviews",
+  "label": "Google reviews checked and answered"
+ },
+ {
+  "id": "2026-12-25-02",
+  "date": "2026-12-25",
+  "area": "Social media",
+  "cat": "Social",
+  "label": "Facebook and Instagram post: Recent job photo"
+ },
+ {
+  "id": "2026-12-25-03",
+  "date": "2026-12-25",
+  "area": "Business listings",
+  "cat": "Local SEO",
+  "label": "Quality check on new business listings"
+ },
+ {
+  "id": "2026-12-25-04",
+  "date": "2026-12-25",
+  "area": "Google Maps",
+  "cat": "Map Pins",
+  "label": "Google Maps pins: Mustang service keywords"
+ },
+ {
+  "id": "2026-12-28-01",
+  "date": "2026-12-28",
+  "area": "Reviews",
+  "cat": "Reviews",
+  "label": "Google reviews checked and answered"
+ },
+ {
+  "id": "2026-12-28-02",
+  "date": "2026-12-28",
+  "area": "Google Business Profile",
+  "cat": "GBP",
+  "label": "Google post: Winter emergency heating repair"
+ },
+ {
+  "id": "2026-12-28-03",
+  "date": "2026-12-28",
+  "area": "Social media",
+  "cat": "Social",
+  "label": "Facebook and Instagram post: Seasonal tip"
+ },
+ {
+  "id": "2026-12-28-04",
+  "date": "2026-12-28",
+  "area": "Business listings",
+  "cat": "Local SEO",
+  "label": "Name, address and phone consistency check"
+ },
+ {
+  "id": "2026-12-28-05",
+  "date": "2026-12-28",
+  "area": "Business listings",
+  "cat": "Citations",
+  "label": "New business listing"
+ },
+ {
+  "id": "2026-12-29-01",
+  "date": "2026-12-29",
+  "area": "Content",
+  "cat": "Content",
+  "label": "Blog draft: Common furnace noises and what they mean"
+ },
+ {
+  "id": "2026-12-29-02",
+  "date": "2026-12-29",
+  "area": "Local Services Ads",
+  "cat": "LSA",
+  "label": "Local Services Ads lead review"
+ },
+ {
+  "id": "2026-12-29-03",
+  "date": "2026-12-29",
+  "area": "Business listings",
+  "cat": "Citations",
+  "label": "New business listing"
+ },
+ {
+  "id": "2026-12-30-01",
+  "date": "2026-12-30",
+  "area": "Reviews",
+  "cat": "Reviews",
+  "label": "Google reviews checked and answered"
+ },
+ {
+  "id": "2026-12-30-02",
+  "date": "2026-12-30",
+  "area": "Social media",
+  "cat": "Social",
+  "label": "Facebook and Instagram post: Offer reminder"
+ },
+ {
+  "id": "2026-12-30-03",
+  "date": "2026-12-30",
+  "area": "Business listings",
+  "cat": "Citations",
+  "label": "New business listing"
+ },
+ {
+  "id": "2026-12-31-02",
+  "date": "2026-12-31",
+  "area": "Content",
+  "cat": "Content",
+  "label": "Blog published: Common furnace noises and what they mean"
+ },
+ {
+  "id": "2026-12-31-03",
+  "date": "2026-12-31",
+  "area": "Business listings",
+  "cat": "Citations",
+  "label": "New business listing"
+ }
+]
