@@ -1,5 +1,10 @@
+# Static page: nothing to build on Netlify. index.html is rebuilt and committed by the daily run.
 [build]
   publish = "."
+  command = "echo 'Static site, nothing to build'"
+
+[build.environment]
+  NETLIFY_SKIP_PYTHON = "true"
 
 [[headers]]
   for = "/*"
