@@ -272,7 +272,9 @@ function renderKw() {
   $('kwlist').innerHTML = D.keywords.filter(k => k.month === kSel).map(k => {
     const r = D.rankings[k.kw];
     const vol = `${k.vol.toLocaleString()} searches/mo in OKC${k.near ? ` (+${k.near} "near me")` : ''}`;
-    const rank = r ? `<span class="rank">Average map rank ${esc(r.arp)}${r.prev ? `, was ${esc(r.prev)}` : ''}</span>` : `<span>First ranking scan in October</span>`;
+    const rank = !r ? `<span>First ranking scan in October</span>`
+      : r.found ? `<span class="rank">In the top 20 at ${r.found} of 49 map points${r.arp ? `, best average ${esc(r.arp)}` : ''}</span>`
+      : `<span class="rank">Not in the top 20 yet (Oct 1 baseline)</span>`;
     return `<div class="kw">${grid7(r)}<div><h3>${esc(k.kw)}<span class="season ${k.season}">${k.season === 'heat' ? 'Heating' : 'Cooling'}</span></h3>
       <div class="meta"><span class="num">${vol}</span>${rank}<span>Page: ${esc(k.page)}</span></div></div></div>`;
   }).join('');
